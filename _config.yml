@@ -34,27 +34,27 @@ menu:
 
 # 颜色配置
 color:
-  header: indigo
-  footer: indigo
-  page_nav: indigo
-  side_nav: indigo darken-1
-  tag: pink lighten-1
-  article_title_link: indigo
-  link: pink
-  pagination: pink
-  tab: pink
+  header: cyan
+  footer: cyan
+  page_nav: cyan
+  side_nav: cyan darken-1
+  tag: orange
+  link: orange
+  pagination: orange
+  tab: green
   archive_item: grey
-  fab: pink
-  fab_2: green
-  fab_3: yellow darken-1
+  fab: orange
+  fab_2: cyan
+  fab_3: green
   new: pink
-  about_header: indigo
-  about_title: indigo
+  about_header: cyan
+  about_title: cyan
+  article_title_link: cyan
 
 archive_yearly: true
 
 # 版权信息
-copyright: © 2016 example.com, All rights reserved.
+copyright: © 2017 example.com, All rights reserved.
 
 # Disqus评论shortname，若为空则不启用
 disqus_shortname:
@@ -66,7 +66,7 @@ yungentie_product_key:
 # Google分析track id，若为空则不启用
 google_analytics:
 # 腾讯分析sId，若为空则不启用
-tencent_analytics:
+tencent_analytics: 57839780
 
 # 高亮的主题，若为空则使用默认主题
 google_code_prettify: prettify-tomorrow-night-eighties
